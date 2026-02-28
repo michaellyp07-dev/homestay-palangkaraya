@@ -219,65 +219,10 @@ function App() {
   <div className="h-px bg-gradient-to-r from-transparent via-neutral-200 to-transparent my-10"></div>
 </div>
       
-
-      {/* ================= TESTIMONI ================= */}
-<section className="py-28 bg-neutral-50 reveal">
-  <div className="max-w-screen-xl mx-auto px-6">
-    <div className="text-center mb-16">
-      <h2 className="text-4xl md:text-6xl font-heading tracking-tight leading-[1.1] mb-6 drop-shadow-xl">
-        Apa Kata Tamu Kami
-      </h2>
-      <p className="text-neutral-500">
-        Pengalaman nyata dari keluarga yang sudah menginap.
-      </p>
-    </div>
-
-    <div className="grid md:grid-cols-3 gap-10">
-      
-      {/* Card 1 */}
-     <div className="bg-white rounded-2xl p-10 border border-neutral-200/60 shadow-sm hover:shadow-md transition-all duration-500 ease-out">
-    <p className="=text-neutral-700 leading-relaxed text-[15px] mb-6">
-      “Rumahnya bersih, nyaman, dan terasa seperti rumah sendiri. Anak-anak bisa istirahat dengan tenang.”
-    </p>
-  <div className="text-sm text-neutral-500">
-  <span className="font-medium text-neutral-700">Andi</span>
-  <span className="mx-2">•</span>
-  Tamu Keluarga
-</div>
-  </div>
-
-      {/* Card 2 */}
-       <div className="bg-white rounded-2xl p-10 border border-neutral-200/60 shadow-sm hover:shadow-md transition-all duration-500 ease-out">
-    <p className="text-neutral-700 leading-relaxed text-[15px] mb-6">
-      “Lingkungannya aman dan tidak bising. Cocok sekali untuk keluarga yang ingin suasana tenang.”
-    </p>
-    <div className="text-sm text-neutral-500">
-  <span className="font-medium text-neutral-700">Rina</span>
-  <span className="mx-2">•</span>
-  Tamu Keluarga
-</div>
-  </div>
-
-      {/* Card 3 */}
-     <div className="bg-white rounded-2xl p-10 border border-neutral-200/60 shadow-sm hover:shadow-md transition-all duration-500 ease-out">
-    <p className="text-neutral-700 leading-relaxed text-[15px] mb-6">
-      “Fasilitas lengkap dan tertata rapi. Kami merasa sangat nyaman selama menginap.”
-    </p>
-    <div className="text-sm text-neutral-500">
-  <span className="font-medium text-neutral-700">adit</span>
-  <span className="mx-2">•</span>
-  Tamu Keluarga
-</div>
-  </div>
-
-    </div>
-  </div>
-</section>
 <div className="max-w-screen-xl mx-auto px-6">
   <div className="h-px bg-gradient-to-r from-transparent via-neutral-200 to-transparent my-10"></div>
 </div>
 
-{/* ================= GALLERY ================= */}
 {/* ================= GALLERY ================= */}
 <section id="gallery" className="py-32 bg-neutral-50 text-center reveal">
   
