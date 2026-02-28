@@ -215,7 +215,11 @@ function App() {
 </div>
         </div>
       </section>
+    <div className="max-w-screen-xl mx-auto px-6">
+  <div className="h-px bg-gradient-to-r from-transparent via-neutral-200 to-transparent my-10"></div>
+</div>
       
+
 {/* ================= GALLERY ================= */}
 <section id="gallery" className="py-32 bg-neutral-50 text-center reveal">
   
@@ -292,9 +296,6 @@ function App() {
   </div>
 
 </section>
-<div className="max-w-screen-xl mx-auto px-6">
-  <div className="h-px bg-gradient-to-r from-transparent via-neutral-200 to-transparent my-10"></div>
-</div>
 
       {/* ================= LOKASI ================= */}
 <section id="lokasi" className="py-32 bg-white reveal">
